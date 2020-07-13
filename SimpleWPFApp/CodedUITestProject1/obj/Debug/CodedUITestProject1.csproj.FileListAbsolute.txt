@@ -1,0 +1,6 @@
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab03_Pruebas-automatizadasInterfazUsuario\SimpleWPFApp\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab03_Pruebas-automatizadasInterfazUsuario\SimpleWPFApp\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab03_Pruebas-automatizadasInterfazUsuario\SimpleWPFApp\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojAssemblyReference.cache
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab03_Pruebas-automatizadasInterfazUsuario\SimpleWPFApp\CodedUITestProject1\obj\Debug\CodedUITestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab03_Pruebas-automatizadasInterfazUsuario\SimpleWPFApp\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab03_Pruebas-automatizadasInterfazUsuario\SimpleWPFApp\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb
